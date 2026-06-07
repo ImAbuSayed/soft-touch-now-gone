@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Soft Touch Now Gone
+
+This log tracks the cryptographic history and versioning for the song **Soft Touch Now Gone** (soft-touch-now-gone).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T12:31:33.800428 | `v1` | `c6f7381af48585c5bf06a0ba758214c54670db9e5a171fa6df513a8d08c005c1` | `5e20737eae53b0ecb49e482b8288afa445196883e1af4bf5ed378edac795caff` | `2026-06-07_soft-touch-now-gone-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

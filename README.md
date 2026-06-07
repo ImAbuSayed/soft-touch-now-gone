@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-touch-now-gone/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Soft Touch Now Gone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-now-gone/) |
+| **Get License** | [Official Music Licensing for Soft Touch Now Gone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-now-gone/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c6f7381af48585c5bf06a0ba758214c54670db9e5a171fa6df513a8d08c005c1` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
