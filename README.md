@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-touch-now-gone/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Soft Touch Now Gone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-now-gone/) |
+| **Get License** | [Secure Licensing Rights for Soft Touch Now Gone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-now-gone/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The taste of honey still lingering on my lips
+> I trace the memory of my hands upon your hips
+> The morning light is tearing through the curtain drawn
+> Leaving me to crave your soft touch now gone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
